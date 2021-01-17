@@ -1,6 +1,6 @@
-#ifndef __SETCC_H__
-#define __SETCC_H__
-
-make_helper(setne);
-
-#endif
+#include "setb.h"
+#include "sete.h"
+#include "setne.h"
+#include "seto.h"
+#include "setp.h"
+#include "sets.h"
